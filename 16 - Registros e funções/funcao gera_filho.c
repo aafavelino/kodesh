@@ -1,3 +1,4 @@
+// Você poderia melhorar isso aqui... 
 Pessoa gera_filho(Pessoa p1, Pessoa p2) {
     Pessoa filho;
     filho.altura = (p1.altura + p2.altura)/2;
